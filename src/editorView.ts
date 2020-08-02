@@ -1,5 +1,5 @@
 import { EditorModel } from './editorModel'
-import { sectionWith1BoldStyling } from './mockData'
+import { sectionWith2BoldStyling } from './mockData'
 import { SectionView } from './sectionView'
 
 class EditorView {
@@ -10,13 +10,13 @@ class EditorView {
     this.$editor = $editor
     this.model = new EditorModel()
 
-    this.model.addSection(sectionWith1BoldStyling)
+    this.model.addSection(sectionWith2BoldStyling)
 
     this.render()
   }
 
   render() {
-    const section = this.model.getSectionById(1)
+    const section = this.model.getSectionById(3)
     if (!section) {
       return
     }

@@ -13,3 +13,30 @@ export const sectionWith1BoldStyling: SectionType = {
     },
   ],
 }
+
+export const sectionWithoutStyling: SectionType = {
+  id: 2,
+  text:
+    'Bilbo was very rich and very peculiar, and had been the wonder of the Shire for sixty years, ever since his remarkable disappearance and unexpected return. ',
+
+  formatting: [],
+}
+
+export const sectionWith2BoldStyling: SectionType = {
+  id: 3,
+  text:
+    'The riches he had brought back from his travels had now become a local legend, and it was popularly believed, whatever the old folk might say, that the Hill at Bag End was full of tunnels stuffed with treasure.',
+
+  formatting: [
+    {
+      type: 'bold',
+      start: 10,
+      end: 14,
+    },
+    {
+      type: 'bold',
+      start: 30,
+      end: 50,
+    },
+  ],
+}
