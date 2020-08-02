@@ -9,5 +9,5 @@ export type SectionIdType = string | number
 export type SectionType = {
   id: SectionIdType
   text: string
-  formatting: FormattingType[]
+  formatting?: FormattingType[]
 }
