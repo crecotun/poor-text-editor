@@ -1,12 +1,12 @@
-import { EditorCore } from './core'
+import { EditorModel } from './editorModel'
 
-class Editor {
+class EditorView {
   $editor: Element
-  core: EditorCore
+  core: EditorModel
 
   constructor($editor: Element) {
     this.$editor = $editor
-    this.core = new EditorCore()
+    this.core = new EditorModel()
 
     this.core.addSection({
       id: 1,
@@ -35,4 +35,4 @@ class Editor {
   }
 }
 
-export { Editor }
+export { EditorView }

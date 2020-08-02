@@ -1,9 +1,9 @@
 import { SectionIdType, FormattingType, SectionType } from './types'
 
-class Section {
+class SectionModel {
   public readonly id: SectionIdType
-  private _text: string = ''
-  private _formatting: FormattingType[] = []
+  private _text: string
+  private _formatting: FormattingType[]
 
   constructor({ id, text, formatting }: SectionType) {
     this.id = id
@@ -18,6 +18,14 @@ class Section {
   get formatting(): FormattingType[] {
     return this._formatting
   }
+
+  toString(): SectionType {
+    return {
+      id: this.id,
+      text: this.text,
+      formatting: this.formatting,
+    }
+  }
 }
 
-export { Section }
+export { SectionModel }
