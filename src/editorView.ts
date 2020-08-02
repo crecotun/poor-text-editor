@@ -1,5 +1,6 @@
 import { EditorModel } from './editorModel'
 import { sectionWith1BoldStyling } from './mockData'
+import { SectionView } from './sectionView'
 
 class EditorView {
   $editor: Element
@@ -20,7 +21,9 @@ class EditorView {
       return
     }
 
-    this.$editor.innerHTML = section.text
+    this.$editor.innerHTML = ''
+    const sectionView = new SectionView(section)
+    this.$editor.append(sectionView.render())
   }
 }
 
