@@ -1,29 +1,51 @@
 import { EditorModel } from './editorModel'
-import { sectionWith2BoldStyling } from './mockData'
+import {
+  sectionWith2BoldStyling,
+  sectionWith1BoldStyling,
+  sectionWithoutStyling,
+} from './mockData'
 import { SectionView } from './sectionView'
+import { SectionModel } from './sectionModel'
 
 class EditorView {
   $editor: Element
   model: EditorModel
+  sectionViews: SectionView[]
 
   constructor($editor: Element) {
     this.$editor = $editor
     this.model = new EditorModel()
+    this.sectionViews = []
 
-    this.model.addSection(sectionWith2BoldStyling)
+    this.model.addSections([
+      sectionWithoutStyling,
+      sectionWith1BoldStyling,
+      sectionWith2BoldStyling,
+    ])
+
+    this.addSectionViews(this.model.getSections())
 
     this.render()
   }
 
-  render() {
-    const section = this.model.getSectionById(3)
-    if (!section) {
-      return
-    }
+  addSectionView = (sectionModel: SectionModel): SectionView => {
+    const sectionView = new SectionView(sectionModel)
+    this.sectionViews.push(sectionView)
+    return sectionView
+  }
 
+  addSectionViews = (sections: SectionModel[]): SectionView[] => {
+    sections.forEach(this.addSectionView)
+
+    return this.sectionViews
+  }
+
+  render() {
     this.$editor.innerHTML = ''
-    const sectionView = new SectionView(section)
-    this.$editor.append(sectionView.render())
+
+    this.sectionViews.forEach((sectionView) =>
+      this.$editor.append(sectionView.render()),
+    )
   }
 }
 
