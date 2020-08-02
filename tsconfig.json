@@ -12,6 +12,7 @@
       "dom",
       "ESNext"
     ],
+    "target": "ESNEXT",
     "rootDir": "src",
     "moduleResolution": "node"
   }

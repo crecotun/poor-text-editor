@@ -1,27 +1,16 @@
 import { SectionType, SectionIdType } from './types'
+import { Section } from './section'
 
 class EditorCore {
-  private sections: SectionType[] = []
+  private sections: Section[] = []
 
-  constructor() {
-    this.sections = [
-      {
-        id: 1,
-        text:
-          'When Mr. Bilbo Baggins of Bag End announced that he would shortly be celebrating his eleventy-first birthday with a party of special magnificence, there was much talk and excitement in Hobbiton.',
+  constructor() {}
 
-        formatting: [
-          {
-            type: 'bold',
-            start: 0,
-            end: 4,
-          },
-        ],
-      },
-    ]
+  addSection({ id, text, formatting }: SectionType) {
+    this.sections.push(new Section({ id, text, formatting }))
   }
 
-  getSectionById(id: SectionIdType): SectionType | undefined {
+  getSectionById(id: SectionIdType): Section | undefined {
     return this.sections.find((section) => section.id === id)
   }
 }
