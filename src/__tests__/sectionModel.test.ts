@@ -1,17 +1,10 @@
 import { SectionModel } from '../sectionModel'
+import { sectionWith1BoldStyling } from '../mockData'
 
 describe('sectionModel', () => {
   test('create', () => {
-    const sectionData = {
-      id: 1,
-      text: 'Hi there',
-      formatting: [],
-    }
+    const sectionModel = new SectionModel(sectionWith1BoldStyling).toString()
 
-    const sectionModel = new SectionModel(sectionData).toString()
-
-    expect(sectionModel).toEqual(sectionData)
+    expect(sectionModel).toEqual(sectionWith1BoldStyling)
   })
-
-  // test('insert')
 })
