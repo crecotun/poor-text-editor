@@ -1,8 +1,10 @@
 import { SectionType, SectionIdType } from './types'
 import { SectionModel } from './sectionModel'
+import { CaretModel } from './caretModel'
 
 class EditorModel {
   private sections: SectionModel[] = []
+  private carets: CaretModel[] = []
 
   constructor() {}
 
@@ -20,6 +22,21 @@ class EditorModel {
 
   getSections = (): SectionModel[] => {
     return this.sections
+  }
+
+  addCaret = (id: string, name: string): CaretModel => {
+    const caret = new CaretModel('current', 'me')
+    this.carets.push(caret)
+
+    return caret
+  }
+
+  getCarets = (): CaretModel[] => {
+    return this.carets
+  }
+
+  getCaretById = (id: string): CaretModel | undefined => {
+    return this.carets.find((caret) => caret.id === id)
   }
 }
 

@@ -2,7 +2,7 @@ import { SectionModel } from './sectionModel'
 
 class SectionView {
   private model: SectionModel
-  private $el: Element
+  private $el: HTMLElement
 
   constructor(model: SectionModel) {
     this.model = model
@@ -16,6 +16,7 @@ class SectionView {
     this.model.text.split('').forEach((char) => {
       const span = document.createElement('span')
       span.textContent = char
+      span.setAttribute('data-type', 'char')
       elementFragment.appendChild(span)
     })
 
@@ -29,6 +30,7 @@ class SectionView {
       })
     }
 
+    this.$el.setAttribute('data-section-id', `${this.model.id}`)
     this.$el.innerHTML = ''
     this.$el.appendChild(elementFragment)
 

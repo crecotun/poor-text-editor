@@ -1,1757 +1,2852 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Section View render text with just 1 bold tag 1`] = `
-<div>
+<div
+  data-section-id="1"
+>
   <span
     class="bold"
+    data-type="char"
   >
     W
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     h
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     e
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     n
   </span>
   <span
     class="bold"
+    data-type="char"
   >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     M
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     .
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     B
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     b
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     o
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     B
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     g
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     g
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     s
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     o
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     f
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     B
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     g
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     E
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     d
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     o
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     u
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     c
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     d
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     w
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     o
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     u
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     d
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     s
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     o
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     y
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     b
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     c
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     b
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     g
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     s
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     v
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     y
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     -
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     f
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     s
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     b
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     d
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     y
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     w
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     p
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     y
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     o
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     f
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     s
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     p
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     c
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     m
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     g
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     f
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     c
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     c
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     ,
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     w
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     s
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     m
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     u
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     c
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     k
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     d
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     x
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     c
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     m
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     H
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     o
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     b
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     b
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     o
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     .
   </span>
 </div>
 `;
 
 exports[`Section View render text with just 2 bold tags 1`] = `
-<div>
-  <span>
+<div
+  data-section-id="3"
+>
+  <span
+    data-type="char"
+  >
     T
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     c
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     s
   </span>
   <span
     class="bold"
+    data-type="char"
   >
      
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     h
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     e
   </span>
   <span
     class="bold"
+    data-type="char"
   >
      
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     d
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     b
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     o
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     u
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     g
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     b
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     c
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     k
   </span>
   <span
     class="bold"
+    data-type="char"
   >
      
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     f
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     r
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     o
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     m
   </span>
   <span
     class="bold"
+    data-type="char"
   >
      
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     h
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     i
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     s
   </span>
   <span
     class="bold"
+    data-type="char"
   >
      
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     t
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     r
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     a
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     v
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     e
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     l
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     s
   </span>
   <span
     class="bold"
+    data-type="char"
   >
      
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     h
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     a
   </span>
   <span
     class="bold"
+    data-type="char"
   >
     d
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     o
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     w
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     b
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     c
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     o
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     m
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     o
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     c
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     g
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     d
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     ,
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     d
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     w
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     s
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     p
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     o
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     p
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     u
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     y
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     b
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     v
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     d
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     ,
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     w
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     v
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     o
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     d
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     f
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     o
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     k
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     m
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     g
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     s
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     y
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     ,
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     H
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     B
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     g
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     E
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     d
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     w
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     s
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     f
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     u
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     o
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     f
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     u
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     s
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     s
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     u
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     f
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     f
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     d
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     w
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     s
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     u
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     .
   </span>
 </div>
 `;
 
 exports[`Section View render text witouth styling 1`] = `
-<div>
-  <span>
+<div
+  data-section-id="2"
+>
+  <span
+    data-type="char"
+  >
     B
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     b
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     o
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     w
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     s
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     v
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     y
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     c
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     d
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     v
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     y
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     p
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     c
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     u
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     ,
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     d
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     d
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     b
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     w
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     o
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     d
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     o
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     f
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     S
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     f
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     o
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     s
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     x
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     y
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     y
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     s
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     ,
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     v
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     s
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     c
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     h
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     s
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     m
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     k
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     b
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     l
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     d
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     i
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     s
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     p
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     p
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     c
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     a
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     d
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     u
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     x
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     p
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     c
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     d
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     e
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     t
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     u
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     r
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     n
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
     .
   </span>
-  <span>
+  <span
+    data-type="char"
+  >
      
   </span>
 </div>
