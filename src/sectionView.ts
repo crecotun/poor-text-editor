@@ -9,6 +9,10 @@ class SectionView {
     this.$el = document.createElement('div')
   }
 
+  initEventListeners() {
+    // listen to model on change and rerender
+  }
+
   render() {
     const elementFragment = document.createDocumentFragment()
 

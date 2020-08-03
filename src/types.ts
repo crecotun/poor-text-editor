@@ -30,3 +30,8 @@ export type CaretType = {
   coordinates: CaretCoordinatesType
   style: CaretStyleType
 }
+
+export type TextPositionType = {
+  from: number
+  to?: number
+}
