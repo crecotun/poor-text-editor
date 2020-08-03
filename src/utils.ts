@@ -1,6 +1,7 @@
 export function getCaretCharacterOffset(element: HTMLElement) {
   let caretOffset = { start: 0, end: 0, isCollapsed: true }
   let selection = window?.getSelection()
+  var range = window?.getSelection()?.getRangeAt(0)
 
   if (selection && selection.rangeCount > 0) {
     var range = window?.getSelection()?.getRangeAt(0)
@@ -22,4 +23,25 @@ export function getCaretCharacterOffset(element: HTMLElement) {
   }
 
   return caretOffset
+}
+
+export function getElementIndex(element: HTMLElement): number {
+  const parentEl = element.parentElement
+  if (!parentEl) {
+    return -1
+  }
+
+  return Array.from(parentEl.children).indexOf(element)
+}
+
+export function getElementIndexInParent(
+  parentElement: HTMLElement,
+  index: number,
+): HTMLElement {
+  return Array.from(parentElement.children)[index] as HTMLElement
+}
+
+// Naivé implementation of single char detection
+export function isCharKey(key: string) {
+  return key.length === 1
 }

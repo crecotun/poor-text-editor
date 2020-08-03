@@ -1,4 +1,7 @@
 import { CaretModel } from './caretModel'
+import { EventBus } from './eventBus'
+import { SectionView } from './sectionView'
+import { getElementIndexInParent } from './utils'
 
 class CaretView {
   $el: HTMLElement
@@ -12,6 +15,9 @@ class CaretView {
 
   initEventsListeners() {
     this.model.emitter.on('change', this.render)
+    EventBus.on('keyboard:char', () => {})
+
+    EventBus.on('caret:move', this.moveCaretToEl)
   }
 
   createEl() {
@@ -22,6 +28,25 @@ class CaretView {
     this.$el = $el
 
     return this.$el
+  }
+
+  moveCaretToEl = ({
+    caretId,
+    section,
+    positionOffset,
+  }: {
+    caretId: string
+    section: SectionView
+    positionOffset: number
+  }) => {
+    if (this.model.id !== caretId) {
+      return
+    }
+
+    const charEl = getElementIndexInParent(section.$el, positionOffset)
+    this.model.setCoordinates(charEl.offsetTop, charEl.offsetLeft)
+    this.model.setHeight(charEl.offsetHeight)
+    this.model.setPositionOffset(positionOffset)
   }
 
   render = () => {

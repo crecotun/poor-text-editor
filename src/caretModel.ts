@@ -37,6 +37,10 @@ class CaretModel {
     this.style.height = height
     this.emitter.emit('change')
   }
+
+  setSectionId(sectionId: string) {
+    this.sectionId = sectionId
+  }
 }
 
 export { CaretModel }

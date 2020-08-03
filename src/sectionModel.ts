@@ -42,7 +42,7 @@ class SectionModel {
     // if the whole range is applied / remove bold
     // if the part of the range is within current styling remove part of the bold
     // split in several methods
-    this.emitter.emit('model:change')
+    this.emitter.emit('change')
   }
 
   insertText(text: string, position: TextPositionType) {
@@ -54,14 +54,14 @@ class SectionModel {
     // define if the text was set before, after ot inbetween applied styling
     // and recalculate their positions
 
-    this.emitter.emit('model:change')
+    this.emitter.emit('change')
 
     return newText
   }
 
   deleteText(position: TextPositionType) {
     // deletes part of the text, from - to position
-    this.emitter.emit('model:change')
+    this.emitter.emit('change')
   }
 }
 

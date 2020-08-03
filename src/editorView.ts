@@ -6,19 +6,24 @@ import {
 } from './mockData'
 import { SectionView } from './sectionView'
 import { SectionModel } from './sectionModel'
-import { getCaretCharacterOffset } from './utils'
+import { getCaretCharacterOffset, getElementIndex } from './utils'
 import { CaretView } from './caretView'
+import { KeyboardManager } from './keyboardManager'
+import { EventBus } from './eventBus'
 
+// This view does a lot of controller work, better to extract all managment things out of here
 class EditorView {
   $editor: HTMLElement
+  $caret: HTMLElement | undefined
   model: EditorModel
   sectionViews: SectionView[]
-  $caret: HTMLElement | undefined
+  keyboardManager: KeyboardManager
 
   constructor($editor: HTMLElement) {
     this.$editor = $editor
     this.model = new EditorModel()
     this.sectionViews = []
+    this.keyboardManager = new KeyboardManager()
 
     this.model.addSections([
       sectionWithoutStyling,
@@ -30,7 +35,7 @@ class EditorView {
     this.addSectionViews(this.model.getSections())
 
     this.render()
-    this.addEvents()
+    this.initEventListeners()
   }
 
   initCarets() {
@@ -44,31 +49,67 @@ class EditorView {
     return sectionView
   }
 
+  getSectionViewById = (sectionId: string): SectionView | null => {
+    const sectionView = this.sectionViews.find(
+      (sectionView) => sectionView.id === sectionId,
+    )
+    if (!sectionView) {
+      return null
+    }
+
+    return sectionView
+  }
+
   addSectionViews = (sections: SectionModel[]): SectionView[] => {
     sections.forEach(this.addSectionView)
 
     return this.sectionViews
   }
 
-  addEvents() {
-    this.$editor.addEventListener('mousedown', this.setCaretData)
+  initEventListeners() {
+    this.$editor.addEventListener('mousedown', (e: any) => {
+      this.model.setFocus(true)
+      this.setCaretData(e)
+    })
+
+    // Not the best place to listen this events in this view
+    EventBus.on('keyboard:char', (char: string) => {
+      const currentCaret = this.model.getCaretById('current')
+
+      if (!currentCaret) {
+        return
+      }
+
+      EventBus.emit('insertText', {
+        text: char,
+        sectionId: currentCaret.sectionId,
+        position: { from: currentCaret.positionOffset },
+      })
+
+      EventBus.emit('caret:move', {
+        caretId: 'current',
+        positionOffset: currentCaret.positionOffset + 1,
+        section: this.getSectionViewById(currentCaret.sectionId),
+      })
+    })
   }
 
   setCaretData = (e: any) => {
     const target: HTMLElement = e.target
     const parentNode = target.parentElement as HTMLElement
-    const caretOffset = getCaretCharacterOffset(parentNode) // will need to insert chars
+    const caretOffset = getElementIndex(target) // will need to insert chars
 
     if (!target.dataset['type']) {
       return
     }
 
-    const myCaret = this.model.getCaretById('current')
+    const currentCaret = this.model.getCaretById('current')
 
-    if (myCaret) {
-      myCaret.setPositionOffset(caretOffset.start)
-      myCaret.setCoordinates(target.offsetTop, target.offsetLeft)
-      myCaret.setHeight(target.offsetHeight)
+    if (currentCaret) {
+      currentCaret.setSectionId(parentNode.dataset['sectionId'] || '')
+      currentCaret.setPositionOffset(caretOffset)
+      currentCaret.setCoordinates(target.offsetTop, target.offsetLeft)
+      currentCaret.setHeight(target.offsetHeight)
     }
   }
 

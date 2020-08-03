@@ -5,6 +5,7 @@ import { CaretModel } from './caretModel'
 class EditorModel {
   private sections: SectionModel[] = []
   private carets: CaretModel[] = []
+  isFocused: boolean = false
 
   constructor() {}
 
@@ -37,6 +38,10 @@ class EditorModel {
 
   getCaretById = (id: string): CaretModel | undefined => {
     return this.carets.find((caret) => caret.id === id)
+  }
+
+  setFocus(isFocused: boolean) {
+    this.isFocused = isFocused
   }
 }
 

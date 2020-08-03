@@ -1,19 +1,30 @@
 import { SectionModel } from './sectionModel'
+import { EventBus } from './eventBus'
 
 class SectionView {
   private model: SectionModel
-  private $el: HTMLElement
+  readonly id: string
+  readonly $el: HTMLElement
 
   constructor(model: SectionModel) {
     this.model = model
+    this.id = this.model.id
     this.$el = document.createElement('div')
+
+    this.initEventListeners()
   }
 
   initEventListeners() {
-    // listen to model on change and rerender
+    EventBus.on('insertText', ({ text, sectionId, position }: any) => {
+      if (sectionId === this.model.id) {
+        this.model.insertText(text, position)
+      }
+    })
+
+    this.model.emitter.on('change', this.render)
   }
 
-  render() {
+  render = () => {
     const elementFragment = document.createDocumentFragment()
 
     // make every char as seperate element to apply styling easily and detect cursor position

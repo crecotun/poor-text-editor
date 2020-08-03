@@ -4,7 +4,7 @@ export type FormattingType = {
   end: number
 }
 
-export type SectionIdType = string | number
+export type SectionIdType = string
 
 export type SectionType = {
   id: SectionIdType
