@@ -22,7 +22,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -58,7 +58,7 @@ exports[`Section View render text with bold and italic 1`] = `
     class="bold"
     data-type="char"
   >
-
+     
   </span>
   <span
     class="bold"
@@ -76,7 +76,7 @@ exports[`Section View render text with bold and italic 1`] = `
     class="bold"
     data-type="char"
   >
-
+     
   </span>
   <span
     class="bold"
@@ -97,7 +97,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -137,7 +137,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -163,7 +163,7 @@ exports[`Section View render text with bold and italic 1`] = `
     class="bold italic"
     data-type="char"
   >
-
+     
   </span>
   <span
     class="bold italic"
@@ -193,7 +193,7 @@ exports[`Section View render text with bold and italic 1`] = `
     class="bold italic"
     data-type="char"
   >
-
+     
   </span>
   <span
     class="bold italic"
@@ -217,7 +217,7 @@ exports[`Section View render text with bold and italic 1`] = `
     class="bold italic"
     data-type="char"
   >
-
+     
   </span>
   <span
     class="bold italic"
@@ -265,7 +265,7 @@ exports[`Section View render text with bold and italic 1`] = `
     class="bold italic"
     data-type="char"
   >
-
+     
   </span>
   <span
     class="bold italic"
@@ -288,7 +288,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -308,7 +308,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -343,7 +343,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -353,7 +353,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -383,7 +383,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -423,7 +423,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -446,7 +446,7 @@ exports[`Section View render text with bold and italic 1`] = `
     class="italic"
     data-type="char"
   >
-
+     
   </span>
   <span
     class="italic"
@@ -464,7 +464,7 @@ exports[`Section View render text with bold and italic 1`] = `
     class="italic"
     data-type="char"
   >
-
+     
   </span>
   <span
     class="italic"
@@ -488,7 +488,7 @@ exports[`Section View render text with bold and italic 1`] = `
     class="italic"
     data-type="char"
   >
-
+     
   </span>
   <span
     class="italic"
@@ -548,7 +548,7 @@ exports[`Section View render text with bold and italic 1`] = `
     class="italic"
     data-type="char"
   >
-
+     
   </span>
   <span
     class="italic"
@@ -599,7 +599,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -644,7 +644,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -664,7 +664,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -684,7 +684,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -709,7 +709,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -739,7 +739,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -764,7 +764,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -789,7 +789,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -809,7 +809,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -834,7 +834,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -849,7 +849,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -869,7 +869,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -889,7 +889,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -909,7 +909,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -934,7 +934,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -949,7 +949,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -989,7 +989,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1029,7 +1029,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1054,7 +1054,7 @@ exports[`Section View render text with bold and italic 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1136,7 +1136,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
     class="bold"
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1156,7 +1156,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1186,7 +1186,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1226,7 +1226,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1241,7 +1241,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1261,7 +1261,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1281,7 +1281,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1331,7 +1331,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1356,7 +1356,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1371,7 +1371,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1401,7 +1401,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1441,7 +1441,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1456,7 +1456,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1516,7 +1516,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1536,7 +1536,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1611,7 +1611,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1656,7 +1656,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1681,7 +1681,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1691,7 +1691,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1721,7 +1721,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1736,7 +1736,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1776,7 +1776,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1846,7 +1846,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1876,7 +1876,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1896,7 +1896,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1921,7 +1921,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1946,7 +1946,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -1966,7 +1966,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2021,7 +2021,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2036,7 +2036,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2108,7 +2108,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2144,7 +2144,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
     class="bold"
     data-type="char"
   >
-
+     
   </span>
   <span
     class="bold"
@@ -2162,7 +2162,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
     class="bold"
     data-type="char"
   >
-
+     
   </span>
   <span
     class="bold"
@@ -2183,7 +2183,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2223,7 +2223,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2249,7 +2249,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
     class="bold"
     data-type="char"
   >
-
+     
   </span>
   <span
     class="bold"
@@ -2279,7 +2279,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
     class="bold"
     data-type="char"
   >
-
+     
   </span>
   <span
     class="bold"
@@ -2303,7 +2303,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
     class="bold"
     data-type="char"
   >
-
+     
   </span>
   <span
     class="bold"
@@ -2351,7 +2351,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
     class="bold"
     data-type="char"
   >
-
+     
   </span>
   <span
     class="bold"
@@ -2374,7 +2374,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2394,7 +2394,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2429,7 +2429,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2439,7 +2439,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2469,7 +2469,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2509,7 +2509,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2529,7 +2529,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2544,7 +2544,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2564,7 +2564,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2614,7 +2614,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2664,7 +2664,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2709,7 +2709,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2729,7 +2729,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2749,7 +2749,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2774,7 +2774,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2804,7 +2804,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2829,7 +2829,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2854,7 +2854,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2874,7 +2874,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2899,7 +2899,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2914,7 +2914,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2934,7 +2934,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2954,7 +2954,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2974,7 +2974,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -2999,7 +2999,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3014,7 +3014,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3054,7 +3054,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3094,7 +3094,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3119,7 +3119,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3201,7 +3201,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3221,7 +3221,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3246,7 +3246,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3271,7 +3271,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3291,7 +3291,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3316,7 +3316,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3366,7 +3366,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3386,7 +3386,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3406,7 +3406,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3431,7 +3431,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3451,7 +3451,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3486,7 +3486,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3501,7 +3501,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3521,7 +3521,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3551,7 +3551,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3571,7 +3571,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3601,7 +3601,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3636,7 +3636,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3661,7 +3661,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3691,7 +3691,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3711,7 +3711,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3766,7 +3766,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3836,7 +3836,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3856,7 +3856,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3911,7 +3911,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
   <span
     data-type="char"
@@ -3951,7 +3951,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-
+     
   </span>
 </div>
 `;

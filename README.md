@@ -5,6 +5,18 @@ It was interesting and I have learned a lot from this topic. The most often advi
 
 Unfortunately commits' time doesn't represent the real time I spent on test task. I took time to time between commits long pauses. In sum it was around 6 hours.
 
+## How to run
+**Do you have `node` and `yarn` installed?**
+You know what to do, if not.
+
+**Run and play.**
+`yarn && yarn start`
+
+**You wanna see if tests are not failing?**
+Then `yarn test`
+
+Btw, old good `npm` is just fine.
+
 ## What is implemented:
 - change caret position by clicking on text
 - change caret position by arrow left/right
@@ -47,7 +59,7 @@ As an example:
 }
 ```
 
-I tried to apply TDD but this didn't work out as the overal time would be much bigger that 6hrs then or I wouldn't implement some basic functionality. So I just tested some of the functionality.
+I tried to apply TDD but this didn't work out as the overal time would be much bigger that 6hrs then or I wouldn't implement some basic functionality. So I just covered some of the functionality.
 
 ## Problems
 ### when many users work on the same document simultaneously
