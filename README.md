@@ -62,6 +62,9 @@ As an example:
 I tried to apply TDD but this didn't work out as the overal time would be much bigger that 6hrs then or I wouldn't implement some basic functionality. So I just covered some of the functionality.
 
 ## Problems
+### Bugs?
+There are.
+
 ### when many users work on the same document simultaneously
 Biggest challenge here is to write a nice diff algo. Sometimes users can over-write each other.
 
