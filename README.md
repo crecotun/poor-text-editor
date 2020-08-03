@@ -78,3 +78,10 @@ Tables are harder of course.
 
 ### Cross-device support
 Current implementation will probably not work on mobile devices, as keyboard won't be shown when user clicks on text, as this is not a real textarea. This could be done by introducing a hidden textarea, but as I stated before this approach could take much longer than 6 hours.
+
+## Reference List
+I have read following articles before starting a test:
+- https://medium.engineering/why-contenteditable-is-terrible-122d8a40e480
+- https://medium.com/content-uneditable/contenteditable-the-good-the-bad-and-the-ugly-261a38555e9c
+- https://sudonull.com/post/10550-Text-editor-this-is-not-your-highest-mathematics-then-you-have-to-think
+- https://ckeditor.com/blog/Lessons-learned-from-creating-a-rich-text-editor-with-real-time-collaboration/
