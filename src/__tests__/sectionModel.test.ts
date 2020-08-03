@@ -1,5 +1,5 @@
 import { SectionModel } from '../sectionModel'
-import { sectionWith1BoldStyling } from '../mockData'
+import { sectionWith1BoldStyling, sectionWithoutStyling } from '../mockData'
 
 describe('sectionModel', () => {
   test('create', () => {
@@ -24,6 +24,29 @@ describe('sectionModel', () => {
 
     const expected =
       'When Mr. Bilbo Baggins of Bag End announced that he would shortly be celebrating his eleventy-first birthday with longer text a party of special magnificence, there was much talk and excitement in Hobbiton.'
+
+    expect(sectionModel.text).toBe(expected)
+  })
+
+  test('remove 1 symbol', () => {
+    const sectionModel = new SectionModel({
+      id: 'yo',
+      text: 'Short example',
+    })
+    sectionModel.deleteText({ from: 6, to: 7 })
+
+    const expected = 'Short xample'
+
+    expect(sectionModel.text).toBe(expected)
+  })
+  test('remove several symbols', () => {
+    const sectionModel = new SectionModel({
+      id: 'yo',
+      text: 'Short example',
+    })
+    sectionModel.deleteText({ from: 6, to: 11 })
+
+    const expected = 'Short le'
 
     expect(sectionModel.text).toBe(expected)
   })

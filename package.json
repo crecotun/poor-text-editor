@@ -11,13 +11,14 @@
     "test": "jest"
   },
   "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.10.4",
     "@babel/preset-env": "^7.11.0",
     "@babel/preset-typescript": "^7.10.4",
     "@types/jest": "^26.0.8",
     "jest": "^26.2.2",
     "parcel": "^2.0.0-beta.1",
-    "typescript": "^3.9.7",
-    "postcss-modules": "^3.2.0"
+    "postcss-modules": "^3.2.0",
+    "typescript": "^3.9.7"
   },
   "dependencies": {
     "nanoevents": "^5.1.8",

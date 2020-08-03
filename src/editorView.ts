@@ -92,6 +92,27 @@ class EditorView {
         section: this.getSectionViewById(currentCaret.sectionId),
       })
     })
+
+    EventBus.on('keyboard:backspace', () => {
+      const currentCaret = this.model.getCaretById('current')
+      if (!currentCaret) {
+        return
+      }
+
+      EventBus.emit('deleteText', {
+        sectionId: currentCaret.sectionId,
+        position: {
+          from: currentCaret.positionOffset - 1,
+          to: currentCaret.positionOffset,
+        },
+      })
+
+      EventBus.emit('caret:move', {
+        caretId: 'current',
+        positionOffset: currentCaret.positionOffset - 1,
+        section: this.getSectionViewById(currentCaret.sectionId),
+      })
+    })
   }
 
   setCaretData = (e: any) => {

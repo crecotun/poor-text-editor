@@ -21,6 +21,12 @@ class SectionView {
       }
     })
 
+    EventBus.on('deleteText', ({ sectionId, position }: any) => {
+      if (sectionId === this.model.id) {
+        this.model.deleteText(position)
+      }
+    })
+
     this.model.emitter.on('change', this.render)
   }
 

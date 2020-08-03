@@ -45,7 +45,7 @@ class SectionModel {
     this.emitter.emit('change')
   }
 
-  insertText(text: string, position: TextPositionType) {
+  insertText(text: string, position: TextPositionType): string {
     const preText = this.text.slice(0, position.from)
     const postText = this.text.slice(position.from)
     let newText = preText + text + postText
@@ -59,9 +59,15 @@ class SectionModel {
     return newText
   }
 
-  deleteText(position: TextPositionType) {
+  deleteText(position: TextPositionType): string {
     // deletes part of the text, from - to position
+    const preText = this.text.slice(0, position.from)
+    const postText = this.text.slice(position.to)
+    const newText = preText + postText
+    this._text = newText
     this.emitter.emit('change')
+
+    return newText
   }
 }
 
