@@ -16,9 +16,11 @@
     "@types/jest": "^26.0.8",
     "jest": "^26.2.2",
     "parcel": "^2.0.0-beta.1",
-    "typescript": "^3.9.7"
+    "typescript": "^3.9.7",
+    "postcss-modules": "^3.2.0"
   },
   "dependencies": {
-    "nanoevents": "^5.1.8"
+    "nanoevents": "^5.1.8",
+    "tailwindcss": "^1.6.1"
   }
 }

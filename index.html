@@ -2,6 +2,7 @@
   <head>
     <title>Poor Text Editor</title>
     <meta charset="UTF-8" />
+    <link rel="stylesheet" href="./src/app.pcss" />
     <style>
       @keyframes caret-animation {
         50% {
@@ -33,7 +34,12 @@
   </head>
 
   <body>
-    <div id="app"></div>
+    <div class="flex justify-center p-10">
+      <div
+        id="app"
+        class="bg-white rounded border-solid border-gray-500 border p-6 w-2/5"
+      ></div>
+    </div>
 
     <script src="src/index.ts"></script>
   </body>
