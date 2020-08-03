@@ -113,6 +113,32 @@ class EditorView {
         section: this.getSectionViewById(currentCaret.sectionId),
       })
     })
+
+    EventBus.on('keyboard:arrow-left', () => {
+      const currentCaret = this.model.getCaretById('current')
+      if (!currentCaret) {
+        return
+      }
+
+      EventBus.emit('caret:move', {
+        caretId: 'current',
+        positionOffset: currentCaret.positionOffset - 1,
+        section: this.getSectionViewById(currentCaret.sectionId),
+      })
+    })
+
+    EventBus.on('keyboard:arrow-right', () => {
+      const currentCaret = this.model.getCaretById('current')
+      if (!currentCaret) {
+        return
+      }
+
+      EventBus.emit('caret:move', {
+        caretId: 'current',
+        positionOffset: currentCaret.positionOffset + 1,
+        section: this.getSectionViewById(currentCaret.sectionId),
+      })
+    })
   }
 
   setCaretData = (e: any) => {
