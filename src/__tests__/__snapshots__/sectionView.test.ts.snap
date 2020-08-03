@@ -1,5 +1,1109 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Section View render text with bold and italic 1`] = `
+<div
+  data-section-id="4"
+>
+  <span
+    data-type="char"
+  >
+    T
+  </span>
+  <span
+    data-type="char"
+  >
+    h
+  </span>
+  <span
+    data-type="char"
+  >
+    e
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    r
+  </span>
+  <span
+    data-type="char"
+  >
+    i
+  </span>
+  <span
+    data-type="char"
+  >
+    c
+  </span>
+  <span
+    data-type="char"
+  >
+    h
+  </span>
+  <span
+    data-type="char"
+  >
+    e
+  </span>
+  <span
+    data-type="char"
+  >
+    s
+  </span>
+  <span
+    class="bold"
+    data-type="char"
+  >
+
+  </span>
+  <span
+    class="bold"
+    data-type="char"
+  >
+    h
+  </span>
+  <span
+    class="bold"
+    data-type="char"
+  >
+    e
+  </span>
+  <span
+    class="bold"
+    data-type="char"
+  >
+
+  </span>
+  <span
+    class="bold"
+    data-type="char"
+  >
+    h
+  </span>
+  <span
+    data-type="char"
+  >
+    a
+  </span>
+  <span
+    data-type="char"
+  >
+    d
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    b
+  </span>
+  <span
+    data-type="char"
+  >
+    r
+  </span>
+  <span
+    data-type="char"
+  >
+    o
+  </span>
+  <span
+    data-type="char"
+  >
+    u
+  </span>
+  <span
+    data-type="char"
+  >
+    g
+  </span>
+  <span
+    data-type="char"
+  >
+    h
+  </span>
+  <span
+    data-type="char"
+  >
+    t
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    b
+  </span>
+  <span
+    data-type="char"
+  >
+    a
+  </span>
+  <span
+    data-type="char"
+  >
+    c
+  </span>
+  <span
+    data-type="char"
+  >
+    k
+  </span>
+  <span
+    class="bold italic"
+    data-type="char"
+  >
+
+  </span>
+  <span
+    class="bold italic"
+    data-type="char"
+  >
+    f
+  </span>
+  <span
+    class="bold italic"
+    data-type="char"
+  >
+    r
+  </span>
+  <span
+    class="bold italic"
+    data-type="char"
+  >
+    o
+  </span>
+  <span
+    class="bold italic"
+    data-type="char"
+  >
+    m
+  </span>
+  <span
+    class="bold italic"
+    data-type="char"
+  >
+
+  </span>
+  <span
+    class="bold italic"
+    data-type="char"
+  >
+    h
+  </span>
+  <span
+    class="bold italic"
+    data-type="char"
+  >
+    i
+  </span>
+  <span
+    class="bold italic"
+    data-type="char"
+  >
+    s
+  </span>
+  <span
+    class="bold italic"
+    data-type="char"
+  >
+
+  </span>
+  <span
+    class="bold italic"
+    data-type="char"
+  >
+    t
+  </span>
+  <span
+    class="bold italic"
+    data-type="char"
+  >
+    r
+  </span>
+  <span
+    class="bold italic"
+    data-type="char"
+  >
+    a
+  </span>
+  <span
+    class="bold italic"
+    data-type="char"
+  >
+    v
+  </span>
+  <span
+    class="bold italic"
+    data-type="char"
+  >
+    e
+  </span>
+  <span
+    class="bold italic"
+    data-type="char"
+  >
+    l
+  </span>
+  <span
+    class="bold italic"
+    data-type="char"
+  >
+    s
+  </span>
+  <span
+    class="bold italic"
+    data-type="char"
+  >
+
+  </span>
+  <span
+    class="bold italic"
+    data-type="char"
+  >
+    h
+  </span>
+  <span
+    class="bold italic"
+    data-type="char"
+  >
+    a
+  </span>
+  <span
+    class="bold italic"
+    data-type="char"
+  >
+    d
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    n
+  </span>
+  <span
+    data-type="char"
+  >
+    o
+  </span>
+  <span
+    data-type="char"
+  >
+    w
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    b
+  </span>
+  <span
+    data-type="char"
+  >
+    e
+  </span>
+  <span
+    data-type="char"
+  >
+    c
+  </span>
+  <span
+    data-type="char"
+  >
+    o
+  </span>
+  <span
+    data-type="char"
+  >
+    m
+  </span>
+  <span
+    data-type="char"
+  >
+    e
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    a
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    l
+  </span>
+  <span
+    data-type="char"
+  >
+    o
+  </span>
+  <span
+    data-type="char"
+  >
+    c
+  </span>
+  <span
+    data-type="char"
+  >
+    a
+  </span>
+  <span
+    data-type="char"
+  >
+    l
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    l
+  </span>
+  <span
+    data-type="char"
+  >
+    e
+  </span>
+  <span
+    data-type="char"
+  >
+    g
+  </span>
+  <span
+    data-type="char"
+  >
+    e
+  </span>
+  <span
+    data-type="char"
+  >
+    n
+  </span>
+  <span
+    data-type="char"
+  >
+    d
+  </span>
+  <span
+    data-type="char"
+  >
+    ,
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    a
+  </span>
+  <span
+    class="italic"
+    data-type="char"
+  >
+    n
+  </span>
+  <span
+    class="italic"
+    data-type="char"
+  >
+    d
+  </span>
+  <span
+    class="italic"
+    data-type="char"
+  >
+
+  </span>
+  <span
+    class="italic"
+    data-type="char"
+  >
+    i
+  </span>
+  <span
+    class="italic"
+    data-type="char"
+  >
+    t
+  </span>
+  <span
+    class="italic"
+    data-type="char"
+  >
+
+  </span>
+  <span
+    class="italic"
+    data-type="char"
+  >
+    w
+  </span>
+  <span
+    class="italic"
+    data-type="char"
+  >
+    a
+  </span>
+  <span
+    class="italic"
+    data-type="char"
+  >
+    s
+  </span>
+  <span
+    class="italic"
+    data-type="char"
+  >
+
+  </span>
+  <span
+    class="italic"
+    data-type="char"
+  >
+    p
+  </span>
+  <span
+    class="italic"
+    data-type="char"
+  >
+    o
+  </span>
+  <span
+    class="italic"
+    data-type="char"
+  >
+    p
+  </span>
+  <span
+    class="italic"
+    data-type="char"
+  >
+    u
+  </span>
+  <span
+    class="italic"
+    data-type="char"
+  >
+    l
+  </span>
+  <span
+    class="italic"
+    data-type="char"
+  >
+    a
+  </span>
+  <span
+    class="italic"
+    data-type="char"
+  >
+    r
+  </span>
+  <span
+    class="italic"
+    data-type="char"
+  >
+    l
+  </span>
+  <span
+    class="italic"
+    data-type="char"
+  >
+    y
+  </span>
+  <span
+    class="italic"
+    data-type="char"
+  >
+
+  </span>
+  <span
+    class="italic"
+    data-type="char"
+  >
+    b
+  </span>
+  <span
+    data-type="char"
+  >
+    e
+  </span>
+  <span
+    data-type="char"
+  >
+    l
+  </span>
+  <span
+    data-type="char"
+  >
+    i
+  </span>
+  <span
+    data-type="char"
+  >
+    e
+  </span>
+  <span
+    data-type="char"
+  >
+    v
+  </span>
+  <span
+    data-type="char"
+  >
+    e
+  </span>
+  <span
+    data-type="char"
+  >
+    d
+  </span>
+  <span
+    data-type="char"
+  >
+    ,
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    w
+  </span>
+  <span
+    data-type="char"
+  >
+    h
+  </span>
+  <span
+    data-type="char"
+  >
+    a
+  </span>
+  <span
+    data-type="char"
+  >
+    t
+  </span>
+  <span
+    data-type="char"
+  >
+    e
+  </span>
+  <span
+    data-type="char"
+  >
+    v
+  </span>
+  <span
+    data-type="char"
+  >
+    e
+  </span>
+  <span
+    data-type="char"
+  >
+    r
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    t
+  </span>
+  <span
+    data-type="char"
+  >
+    h
+  </span>
+  <span
+    data-type="char"
+  >
+    e
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    o
+  </span>
+  <span
+    data-type="char"
+  >
+    l
+  </span>
+  <span
+    data-type="char"
+  >
+    d
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    f
+  </span>
+  <span
+    data-type="char"
+  >
+    o
+  </span>
+  <span
+    data-type="char"
+  >
+    l
+  </span>
+  <span
+    data-type="char"
+  >
+    k
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    m
+  </span>
+  <span
+    data-type="char"
+  >
+    i
+  </span>
+  <span
+    data-type="char"
+  >
+    g
+  </span>
+  <span
+    data-type="char"
+  >
+    h
+  </span>
+  <span
+    data-type="char"
+  >
+    t
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    s
+  </span>
+  <span
+    data-type="char"
+  >
+    a
+  </span>
+  <span
+    data-type="char"
+  >
+    y
+  </span>
+  <span
+    data-type="char"
+  >
+    ,
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    t
+  </span>
+  <span
+    data-type="char"
+  >
+    h
+  </span>
+  <span
+    data-type="char"
+  >
+    a
+  </span>
+  <span
+    data-type="char"
+  >
+    t
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    t
+  </span>
+  <span
+    data-type="char"
+  >
+    h
+  </span>
+  <span
+    data-type="char"
+  >
+    e
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    H
+  </span>
+  <span
+    data-type="char"
+  >
+    i
+  </span>
+  <span
+    data-type="char"
+  >
+    l
+  </span>
+  <span
+    data-type="char"
+  >
+    l
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    a
+  </span>
+  <span
+    data-type="char"
+  >
+    t
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    B
+  </span>
+  <span
+    data-type="char"
+  >
+    a
+  </span>
+  <span
+    data-type="char"
+  >
+    g
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    E
+  </span>
+  <span
+    data-type="char"
+  >
+    n
+  </span>
+  <span
+    data-type="char"
+  >
+    d
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    w
+  </span>
+  <span
+    data-type="char"
+  >
+    a
+  </span>
+  <span
+    data-type="char"
+  >
+    s
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    f
+  </span>
+  <span
+    data-type="char"
+  >
+    u
+  </span>
+  <span
+    data-type="char"
+  >
+    l
+  </span>
+  <span
+    data-type="char"
+  >
+    l
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    o
+  </span>
+  <span
+    data-type="char"
+  >
+    f
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    t
+  </span>
+  <span
+    data-type="char"
+  >
+    u
+  </span>
+  <span
+    data-type="char"
+  >
+    n
+  </span>
+  <span
+    data-type="char"
+  >
+    n
+  </span>
+  <span
+    data-type="char"
+  >
+    e
+  </span>
+  <span
+    data-type="char"
+  >
+    l
+  </span>
+  <span
+    data-type="char"
+  >
+    s
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    s
+  </span>
+  <span
+    data-type="char"
+  >
+    t
+  </span>
+  <span
+    data-type="char"
+  >
+    u
+  </span>
+  <span
+    data-type="char"
+  >
+    f
+  </span>
+  <span
+    data-type="char"
+  >
+    f
+  </span>
+  <span
+    data-type="char"
+  >
+    e
+  </span>
+  <span
+    data-type="char"
+  >
+    d
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    w
+  </span>
+  <span
+    data-type="char"
+  >
+    i
+  </span>
+  <span
+    data-type="char"
+  >
+    t
+  </span>
+  <span
+    data-type="char"
+  >
+    h
+  </span>
+  <span
+    data-type="char"
+  >
+
+  </span>
+  <span
+    data-type="char"
+  >
+    t
+  </span>
+  <span
+    data-type="char"
+  >
+    r
+  </span>
+  <span
+    data-type="char"
+  >
+    e
+  </span>
+  <span
+    data-type="char"
+  >
+    a
+  </span>
+  <span
+    data-type="char"
+  >
+    s
+  </span>
+  <span
+    data-type="char"
+  >
+    u
+  </span>
+  <span
+    data-type="char"
+  >
+    r
+  </span>
+  <span
+    data-type="char"
+  >
+    e
+  </span>
+  <span
+    data-type="char"
+  >
+    .
+  </span>
+</div>
+`;
+
 exports[`Section View render text with just 1 bold tag 1`] = `
 <div
   data-section-id="1"
@@ -32,7 +1136,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
     class="bold"
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -52,7 +1156,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -82,7 +1186,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -122,7 +1226,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -137,7 +1241,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -157,7 +1261,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -177,7 +1281,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -227,7 +1331,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -252,7 +1356,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -267,7 +1371,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -297,7 +1401,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -337,7 +1441,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -352,7 +1456,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -412,7 +1516,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -432,7 +1536,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -507,7 +1611,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -552,7 +1656,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -577,7 +1681,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -587,7 +1691,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -617,7 +1721,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -632,7 +1736,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -672,7 +1776,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -742,7 +1846,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -772,7 +1876,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -792,7 +1896,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -817,7 +1921,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -842,7 +1946,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -862,7 +1966,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -917,7 +2021,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -932,7 +2036,7 @@ exports[`Section View render text with just 1 bold tag 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1004,7 +2108,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1040,7 +2144,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
     class="bold"
     data-type="char"
   >
-     
+
   </span>
   <span
     class="bold"
@@ -1058,7 +2162,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
     class="bold"
     data-type="char"
   >
-     
+
   </span>
   <span
     class="bold"
@@ -1079,7 +2183,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1119,7 +2223,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1145,7 +2249,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
     class="bold"
     data-type="char"
   >
-     
+
   </span>
   <span
     class="bold"
@@ -1175,7 +2279,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
     class="bold"
     data-type="char"
   >
-     
+
   </span>
   <span
     class="bold"
@@ -1199,7 +2303,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
     class="bold"
     data-type="char"
   >
-     
+
   </span>
   <span
     class="bold"
@@ -1247,7 +2351,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
     class="bold"
     data-type="char"
   >
-     
+
   </span>
   <span
     class="bold"
@@ -1270,7 +2374,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1290,7 +2394,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1325,7 +2429,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1335,7 +2439,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1365,7 +2469,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1405,7 +2509,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1425,7 +2529,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1440,7 +2544,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1460,7 +2564,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1510,7 +2614,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1560,7 +2664,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1605,7 +2709,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1625,7 +2729,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1645,7 +2749,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1670,7 +2774,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1700,7 +2804,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1725,7 +2829,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1750,7 +2854,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1770,7 +2874,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1795,7 +2899,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1810,7 +2914,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1830,7 +2934,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1850,7 +2954,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1870,7 +2974,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1895,7 +2999,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1910,7 +3014,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1950,7 +3054,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -1990,7 +3094,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2015,7 +3119,7 @@ exports[`Section View render text with just 2 bold tags 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2097,7 +3201,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2117,7 +3221,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2142,7 +3246,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2167,7 +3271,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2187,7 +3291,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2212,7 +3316,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2262,7 +3366,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2282,7 +3386,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2302,7 +3406,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2327,7 +3431,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2347,7 +3451,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2382,7 +3486,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2397,7 +3501,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2417,7 +3521,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2447,7 +3551,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2467,7 +3571,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2497,7 +3601,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2532,7 +3636,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2557,7 +3661,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2587,7 +3691,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2607,7 +3711,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2662,7 +3766,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2732,7 +3836,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2752,7 +3856,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2807,7 +3911,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
   <span
     data-type="char"
@@ -2847,7 +3951,7 @@ exports[`Section View render text witouth styling 1`] = `
   <span
     data-type="char"
   >
-     
+
   </span>
 </div>
 `;

@@ -40,3 +40,32 @@ export const sectionWith2BoldStyling: SectionType = {
     },
   ],
 }
+
+export const sectionWithBoldAndItalicStyling: SectionType = {
+  id: '4',
+  text:
+    'The riches he had brought back from his travels had now become a local legend, and it was popularly believed, whatever the old folk might say, that the Hill at Bag End was full of tunnels stuffed with treasure.',
+
+  formatting: [
+    {
+      type: 'bold',
+      start: 10,
+      end: 14,
+    },
+    {
+      type: 'bold',
+      start: 30,
+      end: 50,
+    },
+    {
+      type: 'italic',
+      start: 30,
+      end: 50,
+    },
+    {
+      type: 'italic',
+      start: 80,
+      end: 100,
+    },
+  ],
+}
