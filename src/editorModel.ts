@@ -1,6 +1,6 @@
 import { SectionType, SectionIdType } from './types'
 import { SectionModel } from './sectionModel'
-import { CaretModel } from './caretModel'
+import { CaretModel } from 'src/caret/caret.model'
 
 class EditorModel {
   private sections: SectionModel[] = []

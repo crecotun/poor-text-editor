@@ -7,7 +7,7 @@ import {
 import { SectionView } from './sectionView'
 import { SectionModel } from './sectionModel'
 import { getCaretCharacterOffset, getElementIndex } from './utils'
-import { CaretView } from './caretView'
+import { CaretView } from 'src/caret/caret.view'
 import { KeyboardManager } from './keyboardManager'
 import { EventBus } from './eventBus'
 

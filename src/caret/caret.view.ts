@@ -1,7 +1,7 @@
-import { CaretModel } from './caretModel'
-import { EventBus } from './eventBus'
-import { SectionView } from './sectionView'
-import { getElementIndexInParent } from './utils'
+import { CaretModel } from './caret.model'
+import { EventBus } from 'src/eventBus'
+import { SectionView } from 'src/sectionView'
+import { getElementIndexInParent } from 'src/utils'
 
 class CaretView {
   $el: HTMLElement

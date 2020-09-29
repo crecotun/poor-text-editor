@@ -1,4 +1,4 @@
-import { CaretCoordinatesType, CaretStyleType } from './types'
+import { CaretCoordinatesType, CaretStyleType } from '../types'
 import { createNanoEvents, DefaultEvents, Emitter } from 'nanoevents'
 
 class CaretModel {
